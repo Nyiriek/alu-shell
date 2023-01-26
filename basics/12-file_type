@@ -1,2 +1,2 @@
 #!/bin/bash
-ipr /tmp/iamafile
+pwd /tmp/iamafile
