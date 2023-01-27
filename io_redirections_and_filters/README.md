@@ -1,1 +1,1 @@
-Can you smile?
+Let's display a file
