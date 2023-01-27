@@ -1,1 +1,1 @@
-Look in the mirror
+This is my directory
