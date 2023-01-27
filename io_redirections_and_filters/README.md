@@ -1,1 +1,1 @@
-No more Javascript
+Don't just judge
