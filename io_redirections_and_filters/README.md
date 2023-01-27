@@ -1,1 +1,1 @@
-What's next
+I hate bins
