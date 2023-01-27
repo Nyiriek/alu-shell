@@ -1,1 +1,1 @@
-A gif is worth ten thousand words
+This is DJ cut killer
