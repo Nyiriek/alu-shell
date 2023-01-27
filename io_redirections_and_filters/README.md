@@ -1,1 +1,1 @@
-Duplicate file
+No more Javascript
