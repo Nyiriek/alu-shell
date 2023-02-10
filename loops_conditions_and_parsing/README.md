@@ -1,1 +1,1 @@
-Adding 5-4_bad_luck_8_is_your_chance
+Adding 6-superstitious_numbers
