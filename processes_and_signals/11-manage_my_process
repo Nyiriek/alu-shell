@@ -1,4 +1,4 @@
-#!usr/bin/env bash
+#!/usr/bin/env bash
 #Bash script that creates a sub-process
 . /lib/lsb/init-functions
 
