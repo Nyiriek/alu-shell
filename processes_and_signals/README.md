@@ -1,1 +1,1 @@
-Add 6-stop_me_if_you_can
+Add a script that displays a message when SIGTERM
