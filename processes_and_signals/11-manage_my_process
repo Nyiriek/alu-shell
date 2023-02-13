@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 #Bash script that creates a sub-process
-. /lib/lsb/init-functions
+./11-manage_my_process start
 
 PIDFILE=/var/run/my_process.pid
 
