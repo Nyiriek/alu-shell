@@ -1,1 +1,1 @@
-Add 11-manage_my_process
+Add manage_my_process
