@@ -1,1 +1,1 @@
-Adding bash script that kills a process
+Add a script that displays messages with different SIGS
